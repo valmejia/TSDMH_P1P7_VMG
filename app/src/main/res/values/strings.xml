@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TSDMH_P1P7_VMG</string>
+    <string name="p1t1">Ingreso de Datos</string>
+    <string name="lblnombre">Nombre</string>
+    <string name="lbledad">Edad</string>
+    <string name="lblcorreo">Correo</string>
+    <string name="p1h1">Aqui tu nombre</string>
+    <string name="p1h2">Aqui tu edad</string>
+    <string name="p1h3">Aqui tu correo</string>
+    <string name="p1btn1">Enviar datos</string>
+
+    <string name="p2t1">Mostrar informacion</string>
+    
+
+</resources>
